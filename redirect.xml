@@ -1,0 +1,7 @@
+<Response>
+    <Dial>
+        <Conference startConferenceOnEnter="true">
+            support_conference_room
+        </Conference>
+    </Dial>
+</Response>
